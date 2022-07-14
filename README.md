@@ -1,7 +1,5 @@
 # ChairBedSystem using qb-target and qb-radialmenu
 
-##
-
 **Installation:**
 **ADD THIS IN qb-radialmenu/config.lua**
 ```lua
