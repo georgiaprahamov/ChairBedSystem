@@ -1,7 +1,9 @@
 # ChairBedSystem using qb-target and qb-radialmenu
 
-**Installation:**
+##
 
+**Installation:**
+**ADD THIS IN qb-radialmenu/config.lua**
 ```lua
 [1] =  {
         id = 'bed:up',
@@ -12,6 +14,8 @@
         shouldClose = true
        },
 ```
+
+##
 
 **Discord**
 https://discord.gg/dMwubgzxGB
